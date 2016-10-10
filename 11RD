@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<channel>
+<title>[COLOR green][B]RADIO 1[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/RADIO/master/RADIO%201</externallink>
+<thumbnail>http://trippintherift.com/wp-content/uploads/2014/01/radio.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR orange][B]RADIO 2[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/RADIO/master/RADIO%202.m3u</externallink>
+<thumbnail>http://bbbfm.com/images/week-12.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR white][B]PSYCHO RADIO[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/AGyyD6nr</externallink>
+<thumbnail>http://www.free-icons-download.net/images/radio-icon-56501.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR white][B]TVDT RADIO[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/ishnG2jq</externallink>
+<thumbnail>http://www.free-icons-download.net/images/radio-icon-56501.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR blue][B]MyIPTV RADIO[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/radios.m3u</externallink>
+<thumbnail>http://images.wisegeek.com/radio-on-air.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
